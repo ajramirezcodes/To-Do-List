@@ -21,3 +21,8 @@ A simple and user-friendly To-Do List application built with HTML, CSS, and Java
 - HTML5  
 - CSS3  
 - JavaScript (Vanilla)
+
+
+## Live Demo
+
+[View To-Do List App](https://ajramirezcodes.github.io/To-Do-List/)
