@@ -5,7 +5,6 @@ A simple and user-friendly To-Do List application built with HTML, CSS, and Java
 ## Features
 
 - Add new tasks
-- Mark tasks as completed
 - Delete tasks
 - Tasks are saved in the browser using JSON storage (localStorage), so your list stays even after refreshing or closing the browser
 - Responsive design for mobile and desktop
